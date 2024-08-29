@@ -3,6 +3,8 @@
 ## Contact
 telegram: @Takhi77
 
+You can contact me here if you have any problems with this repo then we can decide comfortable contact way.
+
 ## Overview
 
 The `PumpDotFunSDK` is designed to interact with the Pump.fun decentralized application. It provides methods for creating, buying, and selling tokens using the Solana blockchain. The SDK handles the necessary transactions and interactions with the Pump.fun program.
