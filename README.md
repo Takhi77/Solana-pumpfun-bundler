@@ -31,3 +31,11 @@ This is the steps of My bundler.
 ## 5. Sell tokens at once from 24 wallets using bundle when you want
 
 ## 6. Gathering Sol from 24 wallets you bundle buy and sell
+
+# Updated Version
+
+Previous version has serious problem.
+But nobody recorgnized it but after delivery of the product, when the clients are testing with big amount of solana, it meets error (exactly SLIPPAGE error)
+So, in updated version, I solved that problem.
+And seperate the dev wallet and funding wallet.
+And randomize the amount of distributing to bundler wallets, by doing that we can decorate the chart well.
