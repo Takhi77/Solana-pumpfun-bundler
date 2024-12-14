@@ -14,6 +14,15 @@ with updated version
 https://solscan.io/token/4KndEPnfUbBWMqt98MASDdRL7DNLzyRG2E5epTps3Hz5
 https://pump.fun/4KndEPnfUbBWMqt98MASDdRL7DNLzyRG2E5epTps3Hz5
 
+https://solscan.io/tx/qEkqUEhmxd13AKNVKQqNNYD6m7HybY1qS5vcUCdypKvqaVSGqhhpLMGhae3ca86TdA4UHTGvrzyifJQm3LgxwJh
+https://solscan.io/tx/5GKq7hTTF9UKfeUNLE5WS34mo27NBewX74oxfni83KgWgtq9KQskcpEFCUiZbDLn4BkhXZ5CLh5pWH6CHX9EMwEH
+https://solscan.io/tx/W33LBg34YvnKjt4db6thosLwLWHUHEqxSraXsVXCw8nqH8CPKNVKyNF6ykAnwqPLVArvWaP2aZnfN8NHhUKLZGh
+https://solscan.io/tx/3w9jxKvFMYZmUXNAC9ee3QgsmvKAiBrm4zKNp6wJb32Mn4d2H9g1jdobeGfQxyPczfUcU6398msosKziSdhzBjeY
+
+Each transaction is buying tokens from 5 wallets, totally buying with 24 wallets.
+You can check successful buying transactions.
+Now, again Updated with the random amounts to buy from 24 wallets and seperating dev and funding wallets to pass the security checks.
+
 ## Overview
 
 Jito is supporting the bundle service that you can confirm 4 transactions (This is maximum from my experience) at once.
